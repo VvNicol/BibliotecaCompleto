@@ -1,0 +1,1 @@
+id prestamo: 1; id cliente: 12345678Z; id libro: 1; fecha prestamo: 31/12/9999 0:00:00; fecha entrega: 31/12/9999 0:00:00
